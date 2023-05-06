@@ -1,0 +1,2 @@
+/usr/bin/ar qc libscap_engine_nodriver.a  CMakeFiles/scap_engine_nodriver.dir/nodriver.c.o
+/usr/bin/ranlib libscap_engine_nodriver.a

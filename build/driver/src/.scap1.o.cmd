@@ -1,0 +1,1 @@
+cmd_/home/dzjp/sysdig-cpr/sysdig/build/driver/src/scap1.o := ld -m elf_x86_64  -z max-page-size=0x200000 -z noexecstack     -r -o /home/dzjp/sysdig-cpr/sysdig/build/driver/src/scap1.o /home/dzjp/sysdig-cpr/sysdig/build/driver/src/scap.o

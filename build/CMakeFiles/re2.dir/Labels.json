@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/dzjp/sysdig-cpr/sysdig/build/CMakeFiles/re2"
+		},
+		{
+			"file" : "/home/dzjp/sysdig-cpr/sysdig/build/CMakeFiles/re2.rule"
+		},
+		{
+			"file" : "/home/dzjp/sysdig-cpr/sysdig/build/CMakeFiles/re2-complete.rule"
+		},
+		{
+			"file" : "/home/dzjp/sysdig-cpr/sysdig/build/re2-prefix/src/re2-stamp/re2-install.rule"
+		},
+		{
+			"file" : "/home/dzjp/sysdig-cpr/sysdig/build/re2-prefix/src/re2-stamp/re2-mkdir.rule"
+		},
+		{
+			"file" : "/home/dzjp/sysdig-cpr/sysdig/build/re2-prefix/src/re2-stamp/re2-download.rule"
+		},
+		{
+			"file" : "/home/dzjp/sysdig-cpr/sysdig/build/re2-prefix/src/re2-stamp/re2-update.rule"
+		},
+		{
+			"file" : "/home/dzjp/sysdig-cpr/sysdig/build/re2-prefix/src/re2-stamp/re2-patch.rule"
+		},
+		{
+			"file" : "/home/dzjp/sysdig-cpr/sysdig/build/re2-prefix/src/re2-stamp/re2-configure.rule"
+		},
+		{
+			"file" : "/home/dzjp/sysdig-cpr/sysdig/build/re2-prefix/src/re2-stamp/re2-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"re2"
+		],
+		"name" : "re2"
+	}
+}

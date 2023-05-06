@@ -1,0 +1,3 @@
+repository='external project URL'
+module='https://github.com/falcosecurity/libs/archive/0.10.4.tar.gz'
+tag='SHA256=30c5c846b6336d51473bb73bc0e6c18f91dd931e346ae34f18ad7ad4a5b904a2'

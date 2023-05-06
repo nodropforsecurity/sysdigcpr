@@ -1,0 +1,3 @@
+/home/dzjp/sysdig-cpr/sysdig/build/falcosecurity-libs-repo/CMakeFiles/rebuild_cache.dir
+/home/dzjp/sysdig-cpr/sysdig/build/falcosecurity-libs-repo/CMakeFiles/falcosecurity-libs.dir
+/home/dzjp/sysdig-cpr/sysdig/build/falcosecurity-libs-repo/CMakeFiles/edit_cache.dir

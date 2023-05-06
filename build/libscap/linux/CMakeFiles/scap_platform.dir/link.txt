@@ -1,0 +1,2 @@
+/usr/bin/ar qc libscap_platform.a  CMakeFiles/scap_platform.dir/scap_procs.c.o CMakeFiles/scap_platform.dir/scap_fds.c.o CMakeFiles/scap_platform.dir/scap_userlist.c.o CMakeFiles/scap_platform.dir/scap_iflist.c.o
+/usr/bin/ranlib libscap_platform.a

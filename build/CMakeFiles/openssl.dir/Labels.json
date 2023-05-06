@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/dzjp/sysdig-cpr/sysdig/build/CMakeFiles/openssl"
+		},
+		{
+			"file" : "/home/dzjp/sysdig-cpr/sysdig/build/CMakeFiles/openssl.rule"
+		},
+		{
+			"file" : "/home/dzjp/sysdig-cpr/sysdig/build/CMakeFiles/openssl-complete.rule"
+		},
+		{
+			"file" : "/home/dzjp/sysdig-cpr/sysdig/build/openssl-prefix/src/openssl-stamp/openssl-install.rule"
+		},
+		{
+			"file" : "/home/dzjp/sysdig-cpr/sysdig/build/openssl-prefix/src/openssl-stamp/openssl-mkdir.rule"
+		},
+		{
+			"file" : "/home/dzjp/sysdig-cpr/sysdig/build/openssl-prefix/src/openssl-stamp/openssl-download.rule"
+		},
+		{
+			"file" : "/home/dzjp/sysdig-cpr/sysdig/build/openssl-prefix/src/openssl-stamp/openssl-update.rule"
+		},
+		{
+			"file" : "/home/dzjp/sysdig-cpr/sysdig/build/openssl-prefix/src/openssl-stamp/openssl-patch.rule"
+		},
+		{
+			"file" : "/home/dzjp/sysdig-cpr/sysdig/build/openssl-prefix/src/openssl-stamp/openssl-configure.rule"
+		},
+		{
+			"file" : "/home/dzjp/sysdig-cpr/sysdig/build/openssl-prefix/src/openssl-stamp/openssl-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"openssl"
+		],
+		"name" : "openssl"
+	}
+}

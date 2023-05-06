@@ -1,0 +1,54 @@
+Determining if the strlcpy exist failed with the following output:
+Change Dir: /home/dzjp/sysdig-cpr/sysdig/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_dbe32/fast"
+/usr/bin/make -f CMakeFiles/cmTC_dbe32.dir/build.make CMakeFiles/cmTC_dbe32.dir/build
+make[1]: Entering directory '/home/dzjp/sysdig-cpr/sysdig/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_dbe32.dir/CheckSymbolExists.c.o
+/usr/bin/cc   -Wall -ggdb      -o CMakeFiles/cmTC_dbe32.dir/CheckSymbolExists.c.o   -c /home/dzjp/sysdig-cpr/sysdig/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+/home/dzjp/sysdig-cpr/sysdig/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c: In function ‘main’:
+/home/dzjp/sysdig-cpr/sysdig/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:8:19: error: ‘strlcpy’ undeclared (first use in this function); did you mean ‘strncpy’?
+   return ((int*)(&strlcpy))[argc];
+                   ^~~~~~~
+                   strncpy
+/home/dzjp/sysdig-cpr/sysdig/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:8:19: note: each undeclared identifier is reported only once for each function it appears in
+CMakeFiles/cmTC_dbe32.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_dbe32.dir/CheckSymbolExists.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_dbe32.dir/CheckSymbolExists.c.o] Error 1
+make[1]: Leaving directory '/home/dzjp/sysdig-cpr/sysdig/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_dbe32/fast' failed
+make: *** [cmTC_dbe32/fast] Error 2
+
+File /home/dzjp/sysdig-cpr/sysdig/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <string.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef strlcpy
+  return ((int*)(&strlcpy))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the include file sys/mkdev.h exists failed with the following output:
+Change Dir: /home/dzjp/sysdig-cpr/sysdig/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_8d1f2/fast"
+/usr/bin/make -f CMakeFiles/cmTC_8d1f2.dir/build.make CMakeFiles/cmTC_8d1f2.dir/build
+make[1]: Entering directory '/home/dzjp/sysdig-cpr/sysdig/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_8d1f2.dir/CheckIncludeFile.c.o
+/usr/bin/cc   -Wall -ggdb      -o CMakeFiles/cmTC_8d1f2.dir/CheckIncludeFile.c.o   -c /home/dzjp/sysdig-cpr/sysdig/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/home/dzjp/sysdig-cpr/sysdig/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:10: fatal error: sys/mkdev.h: No such file or directory
+ #include <sys/mkdev.h>
+          ^~~~~~~~~~~~~
+compilation terminated.
+CMakeFiles/cmTC_8d1f2.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_8d1f2.dir/CheckIncludeFile.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_8d1f2.dir/CheckIncludeFile.c.o] Error 1
+make[1]: Leaving directory '/home/dzjp/sysdig-cpr/sysdig/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_8d1f2/fast' failed
+make: *** [cmTC_8d1f2/fast] Error 2
+
+

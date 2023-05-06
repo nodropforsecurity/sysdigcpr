@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/dzjp/sysdig-cpr/sysdig/build/CMakeFiles/jq"
+		},
+		{
+			"file" : "/home/dzjp/sysdig-cpr/sysdig/build/CMakeFiles/jq.rule"
+		},
+		{
+			"file" : "/home/dzjp/sysdig-cpr/sysdig/build/CMakeFiles/jq-complete.rule"
+		},
+		{
+			"file" : "/home/dzjp/sysdig-cpr/sysdig/build/jq-prefix/src/jq-stamp/jq-install.rule"
+		},
+		{
+			"file" : "/home/dzjp/sysdig-cpr/sysdig/build/jq-prefix/src/jq-stamp/jq-mkdir.rule"
+		},
+		{
+			"file" : "/home/dzjp/sysdig-cpr/sysdig/build/jq-prefix/src/jq-stamp/jq-download.rule"
+		},
+		{
+			"file" : "/home/dzjp/sysdig-cpr/sysdig/build/jq-prefix/src/jq-stamp/jq-update.rule"
+		},
+		{
+			"file" : "/home/dzjp/sysdig-cpr/sysdig/build/jq-prefix/src/jq-stamp/jq-patch.rule"
+		},
+		{
+			"file" : "/home/dzjp/sysdig-cpr/sysdig/build/jq-prefix/src/jq-stamp/jq-configure.rule"
+		},
+		{
+			"file" : "/home/dzjp/sysdig-cpr/sysdig/build/jq-prefix/src/jq-stamp/jq-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"jq"
+		],
+		"name" : "jq"
+	}
+}

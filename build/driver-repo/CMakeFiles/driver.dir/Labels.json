@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/dzjp/sysdig-cpr/sysdig/build/driver-repo/CMakeFiles/driver"
+		},
+		{
+			"file" : "/home/dzjp/sysdig-cpr/sysdig/build/driver-repo/CMakeFiles/driver.rule"
+		},
+		{
+			"file" : "/home/dzjp/sysdig-cpr/sysdig/build/driver-repo/CMakeFiles/driver-complete.rule"
+		},
+		{
+			"file" : "/home/dzjp/sysdig-cpr/sysdig/build/driver-repo/driver-prefix/src/driver-stamp/driver-install.rule"
+		},
+		{
+			"file" : "/home/dzjp/sysdig-cpr/sysdig/build/driver-repo/driver-prefix/src/driver-stamp/driver-mkdir.rule"
+		},
+		{
+			"file" : "/home/dzjp/sysdig-cpr/sysdig/build/driver-repo/driver-prefix/src/driver-stamp/driver-download.rule"
+		},
+		{
+			"file" : "/home/dzjp/sysdig-cpr/sysdig/build/driver-repo/driver-prefix/src/driver-stamp/driver-update.rule"
+		},
+		{
+			"file" : "/home/dzjp/sysdig-cpr/sysdig/build/driver-repo/driver-prefix/src/driver-stamp/driver-patch.rule"
+		},
+		{
+			"file" : "/home/dzjp/sysdig-cpr/sysdig/build/driver-repo/driver-prefix/src/driver-stamp/driver-configure.rule"
+		},
+		{
+			"file" : "/home/dzjp/sysdig-cpr/sysdig/build/driver-repo/driver-prefix/src/driver-stamp/driver-build.rule"
+		},
+		{
+			"file" : "/home/dzjp/sysdig-cpr/sysdig/build/driver-repo/driver-prefix/src/driver-stamp/driver-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"driver"
+		],
+		"name" : "driver"
+	}
+}

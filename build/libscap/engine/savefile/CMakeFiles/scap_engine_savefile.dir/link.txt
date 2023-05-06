@@ -1,0 +1,2 @@
+/usr/bin/ar qc libscap_engine_savefile.a  CMakeFiles/scap_engine_savefile.dir/scap_savefile.c.o CMakeFiles/scap_engine_savefile.dir/scap_reader_gzfile.c.o CMakeFiles/scap_engine_savefile.dir/scap_reader_buffered.c.o
+/usr/bin/ranlib libscap_engine_savefile.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdriver_event_schema.a  CMakeFiles/driver_event_schema.dir/__/__/driver/syscall_table.c.o CMakeFiles/driver_event_schema.dir/__/__/driver/fillers_table.c.o
+/usr/bin/ranlib libdriver_event_schema.a

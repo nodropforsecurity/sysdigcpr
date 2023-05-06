@@ -1,0 +1,2 @@
+/usr/bin/ar qc libscap_engine_source_plugin.a  CMakeFiles/scap_engine_source_plugin.dir/source_plugin.c.o
+/usr/bin/ranlib libscap_engine_source_plugin.a

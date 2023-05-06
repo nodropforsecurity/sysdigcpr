@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/dzjp/sysdig-cpr/sysdig/build/libscap/CMakeFiles/libelf"
+		},
+		{
+			"file" : "/home/dzjp/sysdig-cpr/sysdig/build/libscap/CMakeFiles/libelf.rule"
+		},
+		{
+			"file" : "/home/dzjp/sysdig-cpr/sysdig/build/libscap/CMakeFiles/libelf-complete.rule"
+		},
+		{
+			"file" : "/home/dzjp/sysdig-cpr/sysdig/build/libelf-prefix/src/libelf-stamp/libelf-install.rule"
+		},
+		{
+			"file" : "/home/dzjp/sysdig-cpr/sysdig/build/libelf-prefix/src/libelf-stamp/libelf-mkdir.rule"
+		},
+		{
+			"file" : "/home/dzjp/sysdig-cpr/sysdig/build/libelf-prefix/src/libelf-stamp/libelf-download.rule"
+		},
+		{
+			"file" : "/home/dzjp/sysdig-cpr/sysdig/build/libelf-prefix/src/libelf-stamp/libelf-update.rule"
+		},
+		{
+			"file" : "/home/dzjp/sysdig-cpr/sysdig/build/libelf-prefix/src/libelf-stamp/libelf-patch.rule"
+		},
+		{
+			"file" : "/home/dzjp/sysdig-cpr/sysdig/build/libelf-prefix/src/libelf-stamp/libelf-configure.rule"
+		},
+		{
+			"file" : "/home/dzjp/sysdig-cpr/sysdig/build/libelf-prefix/src/libelf-stamp/libelf-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"libelf"
+		],
+		"name" : "libelf"
+	}
+}

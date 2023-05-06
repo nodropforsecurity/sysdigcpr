@@ -1,0 +1,13 @@
+# Target labels
+ re2
+# Source files and their labels
+/home/dzjp/sysdig-cpr/sysdig/build/CMakeFiles/re2
+/home/dzjp/sysdig-cpr/sysdig/build/CMakeFiles/re2.rule
+/home/dzjp/sysdig-cpr/sysdig/build/CMakeFiles/re2-complete.rule
+/home/dzjp/sysdig-cpr/sysdig/build/re2-prefix/src/re2-stamp/re2-install.rule
+/home/dzjp/sysdig-cpr/sysdig/build/re2-prefix/src/re2-stamp/re2-mkdir.rule
+/home/dzjp/sysdig-cpr/sysdig/build/re2-prefix/src/re2-stamp/re2-download.rule
+/home/dzjp/sysdig-cpr/sysdig/build/re2-prefix/src/re2-stamp/re2-update.rule
+/home/dzjp/sysdig-cpr/sysdig/build/re2-prefix/src/re2-stamp/re2-patch.rule
+/home/dzjp/sysdig-cpr/sysdig/build/re2-prefix/src/re2-stamp/re2-configure.rule
+/home/dzjp/sysdig-cpr/sysdig/build/re2-prefix/src/re2-stamp/re2-build.rule

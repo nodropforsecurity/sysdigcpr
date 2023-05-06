@@ -1,0 +1,2 @@
+/usr/bin/ar qc libscap_engine_noop.a  CMakeFiles/scap_engine_noop.dir/noop.c.o
+/usr/bin/ranlib libscap_engine_noop.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libscap_error.a  CMakeFiles/scap_error.dir/strerror.c.o
+/usr/bin/ranlib libscap_error.a

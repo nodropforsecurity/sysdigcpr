@@ -1,0 +1,2 @@
+/usr/bin/ar qc libscap_engine_bpf.a  CMakeFiles/scap_engine_bpf.dir/scap_bpf.c.o
+/usr/bin/ranlib libscap_engine_bpf.a

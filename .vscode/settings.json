@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "*.ipp": "c",
+        "*.tpp": "c",
+        "*.inc": "c",
+        "tuple": "c",
+        "*.tcc": "c",
+        "bitset": "c",
+        "forward_list": "c",
+        "functional": "c",
+        "fstream": "c",
+        "istream": "c",
+        "streambuf": "c",
+        "condition_variable": "c",
+        "vector": "c",
+        "typeindex": "c",
+        "typeinfo": "c",
+        "thread": "c"
+    }
+}

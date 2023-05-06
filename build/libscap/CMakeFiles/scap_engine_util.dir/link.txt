@@ -1,0 +1,2 @@
+/usr/bin/ar qc libscap_engine_util.a  CMakeFiles/scap_engine_util.dir/scap_engine_util.c.o CMakeFiles/scap_engine_util.dir/ringbuffer/devset.c.o CMakeFiles/scap_engine_util.dir/ringbuffer/ringbuffer.c.o
+/usr/bin/ranlib libscap_engine_util.a

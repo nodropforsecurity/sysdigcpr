@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/dzjp/sysdig-cpr/sysdig/build/falcosecurity-libs-repo/CMakeFiles/falcosecurity-libs"
+		},
+		{
+			"file" : "/home/dzjp/sysdig-cpr/sysdig/build/falcosecurity-libs-repo/CMakeFiles/falcosecurity-libs.rule"
+		},
+		{
+			"file" : "/home/dzjp/sysdig-cpr/sysdig/build/falcosecurity-libs-repo/CMakeFiles/falcosecurity-libs-complete.rule"
+		},
+		{
+			"file" : "/home/dzjp/sysdig-cpr/sysdig/build/falcosecurity-libs-repo/falcosecurity-libs-prefix/src/falcosecurity-libs-stamp/falcosecurity-libs-install.rule"
+		},
+		{
+			"file" : "/home/dzjp/sysdig-cpr/sysdig/build/falcosecurity-libs-repo/falcosecurity-libs-prefix/src/falcosecurity-libs-stamp/falcosecurity-libs-mkdir.rule"
+		},
+		{
+			"file" : "/home/dzjp/sysdig-cpr/sysdig/build/falcosecurity-libs-repo/falcosecurity-libs-prefix/src/falcosecurity-libs-stamp/falcosecurity-libs-download.rule"
+		},
+		{
+			"file" : "/home/dzjp/sysdig-cpr/sysdig/build/falcosecurity-libs-repo/falcosecurity-libs-prefix/src/falcosecurity-libs-stamp/falcosecurity-libs-update.rule"
+		},
+		{
+			"file" : "/home/dzjp/sysdig-cpr/sysdig/build/falcosecurity-libs-repo/falcosecurity-libs-prefix/src/falcosecurity-libs-stamp/falcosecurity-libs-patch.rule"
+		},
+		{
+			"file" : "/home/dzjp/sysdig-cpr/sysdig/build/falcosecurity-libs-repo/falcosecurity-libs-prefix/src/falcosecurity-libs-stamp/falcosecurity-libs-configure.rule"
+		},
+		{
+			"file" : "/home/dzjp/sysdig-cpr/sysdig/build/falcosecurity-libs-repo/falcosecurity-libs-prefix/src/falcosecurity-libs-stamp/falcosecurity-libs-build.rule"
+		},
+		{
+			"file" : "/home/dzjp/sysdig-cpr/sysdig/build/falcosecurity-libs-repo/falcosecurity-libs-prefix/src/falcosecurity-libs-stamp/falcosecurity-libs-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"falcosecurity-libs"
+		],
+		"name" : "falcosecurity-libs"
+	}
+}

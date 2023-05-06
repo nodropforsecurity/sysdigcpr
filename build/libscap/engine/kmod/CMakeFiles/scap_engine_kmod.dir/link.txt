@@ -1,0 +1,2 @@
+/usr/bin/ar qc libscap_engine_kmod.a  CMakeFiles/scap_engine_kmod.dir/scap_kmod.c.o
+/usr/bin/ranlib libscap_engine_kmod.a

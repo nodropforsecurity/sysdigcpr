@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/dzjp/sysdig-cpr/sysdig/build/CMakeFiles/njson"
+		},
+		{
+			"file" : "/home/dzjp/sysdig-cpr/sysdig/build/CMakeFiles/njson.rule"
+		},
+		{
+			"file" : "/home/dzjp/sysdig-cpr/sysdig/build/CMakeFiles/njson-complete.rule"
+		},
+		{
+			"file" : "/home/dzjp/sysdig-cpr/sysdig/build/njson-prefix/src/njson-stamp/njson-install.rule"
+		},
+		{
+			"file" : "/home/dzjp/sysdig-cpr/sysdig/build/njson-prefix/src/njson-stamp/njson-mkdir.rule"
+		},
+		{
+			"file" : "/home/dzjp/sysdig-cpr/sysdig/build/njson-prefix/src/njson-stamp/njson-download.rule"
+		},
+		{
+			"file" : "/home/dzjp/sysdig-cpr/sysdig/build/njson-prefix/src/njson-stamp/njson-update.rule"
+		},
+		{
+			"file" : "/home/dzjp/sysdig-cpr/sysdig/build/njson-prefix/src/njson-stamp/njson-patch.rule"
+		},
+		{
+			"file" : "/home/dzjp/sysdig-cpr/sysdig/build/njson-prefix/src/njson-stamp/njson-configure.rule"
+		},
+		{
+			"file" : "/home/dzjp/sysdig-cpr/sysdig/build/njson-prefix/src/njson-stamp/njson-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"njson"
+		],
+		"name" : "njson"
+	}
+}

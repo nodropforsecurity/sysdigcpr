@@ -1,0 +1,13 @@
+# Target labels
+ libelf
+# Source files and their labels
+/home/dzjp/sysdig-cpr/sysdig/build/libscap/CMakeFiles/libelf
+/home/dzjp/sysdig-cpr/sysdig/build/libscap/CMakeFiles/libelf.rule
+/home/dzjp/sysdig-cpr/sysdig/build/libscap/CMakeFiles/libelf-complete.rule
+/home/dzjp/sysdig-cpr/sysdig/build/libelf-prefix/src/libelf-stamp/libelf-install.rule
+/home/dzjp/sysdig-cpr/sysdig/build/libelf-prefix/src/libelf-stamp/libelf-mkdir.rule
+/home/dzjp/sysdig-cpr/sysdig/build/libelf-prefix/src/libelf-stamp/libelf-download.rule
+/home/dzjp/sysdig-cpr/sysdig/build/libelf-prefix/src/libelf-stamp/libelf-update.rule
+/home/dzjp/sysdig-cpr/sysdig/build/libelf-prefix/src/libelf-stamp/libelf-patch.rule
+/home/dzjp/sysdig-cpr/sysdig/build/libelf-prefix/src/libelf-stamp/libelf-configure.rule
+/home/dzjp/sysdig-cpr/sysdig/build/libelf-prefix/src/libelf-stamp/libelf-build.rule

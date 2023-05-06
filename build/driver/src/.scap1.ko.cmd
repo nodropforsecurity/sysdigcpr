@@ -1,0 +1,1 @@
+cmd_/home/dzjp/sysdig-cpr/sysdig/build/driver/src/scap1.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000 -z noexecstack   --build-id  -T ./scripts/module-common.lds -o /home/dzjp/sysdig-cpr/sysdig/build/driver/src/scap1.ko /home/dzjp/sysdig-cpr/sysdig/build/driver/src/scap1.o /home/dzjp/sysdig-cpr/sysdig/build/driver/src/scap1.mod.o;  true

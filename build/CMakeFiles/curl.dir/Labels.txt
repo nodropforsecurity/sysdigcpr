@@ -1,0 +1,13 @@
+# Target labels
+ curl
+# Source files and their labels
+/home/dzjp/sysdig-cpr/sysdig/build/CMakeFiles/curl
+/home/dzjp/sysdig-cpr/sysdig/build/CMakeFiles/curl.rule
+/home/dzjp/sysdig-cpr/sysdig/build/CMakeFiles/curl-complete.rule
+/home/dzjp/sysdig-cpr/sysdig/build/curl-prefix/src/curl-stamp/curl-install.rule
+/home/dzjp/sysdig-cpr/sysdig/build/curl-prefix/src/curl-stamp/curl-mkdir.rule
+/home/dzjp/sysdig-cpr/sysdig/build/curl-prefix/src/curl-stamp/curl-download.rule
+/home/dzjp/sysdig-cpr/sysdig/build/curl-prefix/src/curl-stamp/curl-update.rule
+/home/dzjp/sysdig-cpr/sysdig/build/curl-prefix/src/curl-stamp/curl-patch.rule
+/home/dzjp/sysdig-cpr/sysdig/build/curl-prefix/src/curl-stamp/curl-configure.rule
+/home/dzjp/sysdig-cpr/sysdig/build/curl-prefix/src/curl-stamp/curl-build.rule
